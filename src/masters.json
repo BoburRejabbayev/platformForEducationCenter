@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Bobur",
+        "surname": "Rejabbayev",
+        "job": "Frontend mentor",
+        "photo": "https://avatars.mds.yandex.net/i?id=0f7008825d0dce701e2692785f24ea3278b28288-9263767-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 1,
+        "name": "Sevara",
+        "surname": "Karimova",
+        "job": "BackEnd",
+        "photo": "https://pixelbox.ru/wp-content/uploads/2020/12/avatar-youtube-2.jpg",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 2,
+        "name": "Sevara",
+        "surname": "Karimova",
+        "job": "Phyton",
+        "photo": "https://shutniks.com/wp-content/uploads/2020/01/tmb_176941_1711.jpg",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 3,
+        "name": "Bobur",
+        "surname": "Rejabbayev",
+        "job": "English teacher",
+        "photo": "https://avatars.mds.yandex.net/i?id=5f163ae29f23be839db7aca864d70d244afd4fcb-8216803-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 4,
+        "name": "Bobur",
+        "surname": "Rejabbayev",
+        "job": "Russian teacher",
+        "photo": "https://avatars.mds.yandex.net/i?id=f600c94f261fef2837460f7054d7736ad25ee396-9030085-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 5,
+        "name": "Zilola",
+        "surname": "Axmedova",
+        "job": "Math teacher",
+        "photo": "https://avatars.mds.yandex.net/i?id=f600c94f261fef2837460f7054d7736ad25ee396-9030085-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 6,
+        "name": "Bobur",
+        "surname": "Rejabbayev",
+        "job": "Physics teacher",
+        "photo": "https://avatars.mds.yandex.net/i?id=f600c94f261fef2837460f7054d7736ad25ee396-9030085-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    },
+    {
+        "id": 7,
+        "name": "Otabek",
+        "surname": "Karimov",
+        "job": "Web-designer",
+        "photo": "https://avatars.mds.yandex.net/i?id=f600c94f261fef2837460f7054d7736ad25ee396-9030085-images-thumbs&n=13",
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse facilis asperiores doloremque. Sit, maiores? Fugiat non qui expedita quas animi deserunt molestiae, dignissimos architecto ipsa. Maiores vitae obcaecati voluptatem quod praesentium numquam quia dolorum nobis nemo molestiae ad modi facilis, incidunt blanditiis quo laudantium animi alias autem totam! Sit, ipsam.",
+        "quality": "Работоспособность, целеустремленность, стрессоустойчивость, умение работать в команде, дисциплинированность, аккуратность."
+    }
+]

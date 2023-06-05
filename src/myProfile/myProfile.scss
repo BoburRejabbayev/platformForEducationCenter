@@ -1,0 +1,104 @@
+.my_profile {
+    margin-top: 100px;
+}
+
+.profil_logout{
+    color: #fff;
+}
+
+.profile_photo {
+    background-color: #1e2845;
+    height: 370px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0 20px;
+    column-gap: 80px;
+    color: white;
+
+    .profile_img {
+        width: 264px;
+        padding: 4px;
+        border: 3px solid white;
+    }
+}
+
+
+
+.two-column-container {
+    display: flex;
+    gap: 20px;
+}
+
+.column {
+    margin-top: 100px;
+    // flex: 1;
+    // padding: 10px;
+    // display: flex;
+}
+
+.buttons-column {
+    border: 1px solid #ccc;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 270px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px !important;
+    color: #1e2845;
+    transition: .2s;
+    column-gap: 10px;
+    display: flex;
+    // justify-content: center;
+    padding-left: 40px;
+    align-items: center;
+
+    .icon {
+        color: #1e2845;
+    }
+}
+
+button.active {
+    background-color: #1e2845;
+    color: #fff;
+
+    .icon {
+        color: white;
+    }
+}
+
+.button3 {
+    color: #1e2845;
+}
+
+.button3.active {
+    background-color: #1e2845;
+    color: #fff;
+}
+
+.content_collumn {
+    border-top: 5px solid #1e2845;
+    width: 100%;
+    display: block;
+    padding-top: 20px;
+    padding-left: 20px;
+    position: relative;
+
+    .icon_bookmark {
+        position: absolute;
+        top: -4px;
+        right: 20px;
+        font-size: 36px;
+        color: #1e2845;
+    }
+}
+
+.not_user_founded{
+    text-align: center;
+    margin-top: 50px;
+}

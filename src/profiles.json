@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Bobur",
+        "username": "Bobur01",
+        "password": "bobur01",
+        "type": "student"
+    },
+    {
+        "id": 2,
+        "name": "Bobur Rejabbayev",
+        "username": "Bobur02",
+        "password": "bobur01",
+        "type": "student"
+    },
+    {
+        "id": 3,
+        "name": "Bobur",
+        "username": "Bobur03",
+        "password": "bobur01",
+        "type": "student"
+    },
+    {
+        "id": 4,
+        "name": "Bobur",
+        "username": "Bobur04",
+        "password": "bobur01",
+        "type": "teacher"
+    },
+    {
+        "id": 5,
+        "name": "Bobur",
+        "username": "Bobur05",
+        "password": "bobur01",
+        "type": "teacher"
+    },
+    {
+        "id": 6,
+        "name": "Bobur",
+        "username": "Bobur06",
+        "password": "bobur01",
+        "type": "teacher"
+    }
+]

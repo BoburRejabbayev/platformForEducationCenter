@@ -1,0 +1,103 @@
+@import url(./sources/fonts/fonts.scss);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body {
+    background-color: rgb(246, 247, 249);
+    margin: 0 !important;
+
+}
+
+
+
+.show_master {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.257);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+
+    .show_master-info {
+        display: flex;
+        width: 1200px;
+        padding: 25px;
+        background-color: rgb(7, 47, 96);
+        margin: auto;
+        position: relative;
+        border-radius: 8px;
+        column-gap: 25px;
+        color: white;
+        font-family: 'Roboto';
+    }
+
+    
+    h1,
+    h3 {
+        color: white;
+        margin-bottom: 10px;
+        font-size: 32px;
+    }
+    h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+    p {
+        text-align: justify;
+        font-size: 24px;
+    }
+
+    img {
+        width: 600px;
+        border-radius: 8px;
+    }
+
+    .master_main {
+        display: flex;
+        flex-direction: column;
+        // gap: 20px;
+    }
+
+
+
+    .close_show-item {
+        cursor: pointer;
+        position: absolute;
+        top: 40px;
+        right: 40px;
+    }
+}
+
+.map{
+    width: 100%;
+    height: 70vh;
+    margin: auto;
+    display: block;
+}
+
+
+
+// img {
+//     width: 80px;
+//     height: 80px;
+//     border-radius: 100%;
+
+// }
+
+
+// }
